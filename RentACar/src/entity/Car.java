@@ -12,7 +12,7 @@ public class Car extends Model {
     public enum Color{
         RED,
         BLUE,
-        WHİTE,
+        WHITE,
         GREEN,
         AQUA
 
